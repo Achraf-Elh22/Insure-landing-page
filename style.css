@@ -349,7 +349,7 @@ footer::after {
   /* Header */
   .header-content {
     position: relative;
-    height: 90vh;
+    height: 100vh;
   }
   .header-content-container {
     width: 48%;
